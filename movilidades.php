@@ -54,11 +54,11 @@
         <!-- Content Header (Page header) -->
         <section class="content-header">
           <h1>
-            Notificaciones
+            Movilidades
             <small>Control panel</small>
           </h1>
           <ol class="breadcrumb">
-            <button class="btn btn-block btn-success btn-sm">Agregar Notificación</button>
+            <button class="btn btn-block btn-success btn-sm">Agregar Anuncio/Requerimiento de movilidad</button>
           </ol>
 
           
@@ -72,7 +72,7 @@
               <!-- Active box -->
               <div class="box box-solid box-primary">
                 <div class="box-header">
-                  <h3 class="box-title">Se necesita refugio para 2 personas</h3> 
+                  <h3 class="box-title">Se necesita pick up</h3> 
                   <div class="box-tools pull-right">
                     <button class="btn btn-default btn-xs" data-widget="remove"><i class="fa fa-times"></i></button>
                   </div> 
@@ -93,13 +93,13 @@
                       <td>Ubicación</td>
                       <td>1° Casa Catacaos
                       </td>
-                    </tr>    
+                    </tr>  
                     <tr>
                       <td>3.</td>
                       <td>Contacto</td>
-                      <td>Norma Chumacero
+                      <td>Pepe El Zorrillo
                       </td>
-                    </tr>
+                    </tr> 
                     
                   </tbody></table>
                   </p>
@@ -119,7 +119,7 @@
               <!-- Inactive box -->
               <div class="box box-solid box-default">
                 <div class="box-header">
-                  <h3 class="box-title">Se necesitan envases descartables</h3> 
+                  <h3 class="box-title">Tengo SUV a disposición</h3> 
                   <div class="box-tools pull-right">
                     <button class="btn btn-default btn-xs" data-widget="remove"><i class="fa fa-times"></i></button>
                   </div> 

@@ -79,7 +79,7 @@
               <a href="notificaciones.php">
                 <i class="fa fa-exclamation"></i> <span>Notificaciones</span> 
               </a>
-              <a href="#">
+              <a href="movilidades.php">
                 <i class="fa fa-car"></i> <span>Movilidades</span> 
               </a>
               <a href="#">
