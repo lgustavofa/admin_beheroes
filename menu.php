@@ -76,7 +76,7 @@
              <a href="refugios.php">
                 <i class="fa fa-home"></i> <span>Refugios</span> 
               </a>
-              <a href="#">
+              <a href="notificaciones.php">
                 <i class="fa fa-exclamation"></i> <span>Notificaciones</span> 
               </a>
               <a href="#">
