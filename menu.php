@@ -82,7 +82,7 @@
               <a href="movilidades.php">
                 <i class="fa fa-car"></i> <span>Movilidades</span> 
               </a>
-              <a href="#">
+              <a href="voluntarios.php">
                 <i class="fa fa-user"></i> <span>Voluntarios</span> 
               </a>
               <a href="#">
