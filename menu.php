@@ -66,8 +66,8 @@
           <!-- sidebar menu: : style can be found in sidebar.less -->
           <ul class="sidebar-menu">
             <li class="header"></li>
-            <li class="active treeview">
-              <a href="index.php">
+            <li class="treeview" >
+              <a href="principal.php">
                 <i class="fa fa-dashboard"></i> <span>Dashboard</span>
               </a>
             </li>
